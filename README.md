@@ -1,1 +1,2 @@
 # my-portfolio
+This is a simple website that briefly explain and shows what i am capable of doing in the industry of coding(web development and android development), it also shows all the projects that i did for my clients to meet their needs.
